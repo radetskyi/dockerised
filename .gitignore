@@ -1,0 +1,6 @@
+**/db-data/*
+**/pgadmin-data/*
+
+passwd
+.env
+init.sql
